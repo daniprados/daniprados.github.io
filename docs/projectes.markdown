@@ -6,10 +6,18 @@ permalink: /projectes/
 ---
 
 
-Soc enginyer informàtic, durant vint anys he treballat com a programador web, fins que el 2018 vaig decidir fer un canvi a la meva vida.
+## Projectes del curs 21-22
 
-El primer nomenament vaig aterrar a l'institut de Montilivi on estaven començant a aplicar ABP a segon de DAW. Com a primer contacte amb la docència va ser una experiència molt positiva. Com el primer curs vaig compaginar la docència amb el Màster de secundària vaig aprofitar l'avinentesa per fer una anàlisi dels resultats obtinguts aquell any  a segon de DAW com a treball de final de màster.  Pel TFM vaig entrevistar tots els alumnes per  poder recollir quina havia estat la seva experiència amb el canvi metodològic. Aquí es poden consultar.
+A segon de DAW de l'institut Cendrassos hem organitzat el curs amb sis projectes en els quals estan implicats els mòduls M5, M6, M7, M8, M9 i M12.
 
-L'any següent no vaig tenir tanta sort,  i vaig passar per 8 centres diferents,  fent una mica de tot,  DAM, SMX,  matemàtiques i tecnologia.
+Game of Life  del 21-09 al 8-10, individual.
 
-Ara porto dos cursos a l'Institut Cendrassos com a professor de DAW i SMX.  A DAW imparteixo els mòduls  M7 Desenvolupament d'aplicacions web en entorn de servidor, M8 Desplegament d'aplicacions web, M12 Projecte de desenvolupament d’aplicacions web.  Aquest curs les assignatures de segon les hem englobat amb 6 projectes que estem realitzant al llarg del curs.
+Hotel Cendrassos del 11-10 al 19-11, grups de 2.
+
+Gestor de tràmits pel Consell comarcal del 22-11 al 22-12, grups de 3.
+
+Webs al punt del 10-1 al 18-2, grups de 3.
+
+Cendrasoft, desenvolupament web.  21-2 a 8-4, grups de 7. [https://www.youtube.com/watch?v=FK995eINzjQ](Presentació del projecte)
+
+CendraGame, jocs en línia del 19-4 al 27-5, grups de 4.
