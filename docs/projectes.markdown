@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projectes a 2n de DAW al Cendrassos
+title_short: Projectes
 permalink: /projectes/
 ---
 

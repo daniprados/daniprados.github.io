@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Qui soc?
+title_short: Qui soc
 permalink: /quisoc/
 ---
 
