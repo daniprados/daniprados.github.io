@@ -18,6 +18,6 @@ Gestor de tràmits pel Consell comarcal del 22-11 al 22-12, grups de 3.
 
 Webs al punt del 10-1 al 18-2, grups de 3.
 
-Cendrasoft, desenvolupament web.  21-2 a 8-4, grups de 7. (https://www.youtube.com/watch?v=FK995eINzjQ)[Presentació del projecte]
+Cendrasoft, desenvolupament web.  21-2 a 8-4, grups de 7. [Presentació del projecte](https://www.youtube.com/watch?v=FK995eINzjQ)
 
 CendraGame, jocs en línia del 19-4 al 27-5, grups de 4.
